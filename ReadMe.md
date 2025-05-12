@@ -14,3 +14,9 @@ Esto es la sección 2 de la lección
 
 (.venv) PS C:\Users\maste\Desktop\Python\DjangoCourse\LESSON01\myproject>
 py manage.py startapp posts
+
+Esto es la sección3 de la lección
+
+(.venv) PS C:\Users\maste\Desktop\Python\DjangoCourse\LESSON01\myproject> py manage.py migrate
+
+(.venv) PS C:\Users\maste\Desktop\Python\DjangoCourse\LESSON01\myproject> py manage.py makemigrations
