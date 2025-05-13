@@ -62,3 +62,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 > > > <QuerySet [<Post: Mi primer Post!>, <Post: Mi segundo Post>]>
 > > > exit()
 > > > now exiting InteractiveConsole...
+
+##### Esta es la leccion 5
+
+py manage.py createsuperuser
+
+user: andy
+password: andytest
