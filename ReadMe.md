@@ -69,3 +69,11 @@ py manage.py createsuperuser
 
 user: andy
 password: andytest
+
+###### Esta es la leccion 7
+
+(.venv) PS C:\Users\maste\Desktop\Python\DjangoCourse\LESSON01\myproject> pip install Pillow
+
+(.venv) PS C:\Users\maste\Desktop\Python\DjangoCourse\LESSON01\myproject> py manage.py makemigrations
+
+(.venv) PS C:\Users\maste\Desktop\Python\DjangoCourse\LESSON01\myproject> py manage.py migrate
