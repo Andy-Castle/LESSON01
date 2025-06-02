@@ -77,3 +77,7 @@ password: andytest
 (.venv) PS C:\Users\maste\Desktop\Python\DjangoCourse\LESSON01\myproject> py manage.py makemigrations
 
 (.venv) PS C:\Users\maste\Desktop\Python\DjangoCourse\LESSON01\myproject> py manage.py migrate
+
+###### Esta seccion es extra para poder desplegar la aplicacion
+
+(.venv) PS C:\Users\maste\Desktop\Python\DjangoCourse\LESSON01\myproject> py manage.py collectstatic
